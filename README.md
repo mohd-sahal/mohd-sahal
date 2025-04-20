@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋 Hey there! I'm Mohammed sahal
 
-I'm Mohammed Sahal
+🎓 B.Tech in Computer Science Engineering  
 
 <a href="" /></a>
 
