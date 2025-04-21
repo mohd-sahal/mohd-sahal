@@ -34,9 +34,13 @@
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-
-
+  <img src="https://img.shields.io/badge/CCNA_Introduction_to_Networks-Certified-blue?style=for-the-badge&color=000000" alt="CCNA Certification" />
+  <img src="https://img.shields.io/badge/Foundations_of_Cybersecurity-Certified-blue?style=for-the-badge&color=000000" alt="Foundations of Cybersecurity Certification" />
+  <img src="https://img.shields.io/badge/Database_Management_Essentials-Certified-blue?style=for-the-badge&color=000000" alt="Database Management Essentials Certification" />
+  <img src="https://img.shields.io/badge/Mathematics_for_ML_Linear_Algebra-Certified-blue?style=for-the-badge&color=000000" alt="Mathematics for ML Certification" />
+  <img src="https://img.shields.io/badge/Project_Management-Certified-blue?style=for-the-badge&color=000000" alt="Project Management Certification" />
 </div>
+
 
 ---
 
