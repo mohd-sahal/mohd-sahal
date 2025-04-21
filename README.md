@@ -47,7 +47,6 @@
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Biometric-Door-Lock-System](https://github.com/mohd-sahal/Biometric-Door-Lock-System-)**    | A biometric door lock system using a phone’s fingerprint sensor and Bluetooth to control a solenoid lock via Arduino for secure access control. |
 | **[Port Scanner](https://github.com/mohd-sahal/Port-Scanner)**    | Python-based Port Scanner using Scapy. |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+
 
 ---
