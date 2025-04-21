@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Mohammed sahal
 
-🎓 B.Tech in Computer Science Engineering  
+🎓 B.Tech in Computer Science Engineering | Aspiring Cybersecurity Student
 
 <a href="" /></a>
 
